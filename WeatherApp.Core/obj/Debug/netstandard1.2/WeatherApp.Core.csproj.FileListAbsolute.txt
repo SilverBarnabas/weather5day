@@ -1,0 +1,9 @@
+C:\Users\silve\OneDrive\Dokumendid\GitHub\WeatherAPP\WeatherApp\WeatherApp.Core\bin\Debug\netstandard1.2\WeatherApp.Core.deps.json
+C:\Users\silve\OneDrive\Dokumendid\GitHub\WeatherAPP\WeatherApp\WeatherApp.Core\bin\Debug\netstandard1.2\WeatherApp.Core.dll
+C:\Users\silve\OneDrive\Dokumendid\GitHub\WeatherAPP\WeatherApp\WeatherApp.Core\bin\Debug\netstandard1.2\WeatherApp.Core.pdb
+C:\Users\silve\OneDrive\Dokumendid\GitHub\WeatherAPP\WeatherApp\WeatherApp.Core\obj\Debug\netstandard1.2\WeatherApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\silve\OneDrive\Dokumendid\GitHub\WeatherAPP\WeatherApp\WeatherApp.Core\obj\Debug\netstandard1.2\WeatherApp.Core.AssemblyInfoInputs.cache
+C:\Users\silve\OneDrive\Dokumendid\GitHub\WeatherAPP\WeatherApp\WeatherApp.Core\obj\Debug\netstandard1.2\WeatherApp.Core.AssemblyInfo.cs
+C:\Users\silve\OneDrive\Dokumendid\GitHub\WeatherAPP\WeatherApp\WeatherApp.Core\obj\Debug\netstandard1.2\WeatherApp.Core.dll
+C:\Users\silve\OneDrive\Dokumendid\GitHub\WeatherAPP\WeatherApp\WeatherApp.Core\obj\Debug\netstandard1.2\WeatherApp.Core.pdb
+C:\Users\silve\OneDrive\Dokumendid\GitHub\WeatherAPP\WeatherApp\WeatherApp.Core\obj\Debug\netstandard1.2\WeatherApp.Core.csprojAssemblyReference.cache
